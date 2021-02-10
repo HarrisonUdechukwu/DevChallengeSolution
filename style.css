@@ -1,0 +1,98 @@
+html {
+
+}
+.head {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+}
+h4 {
+    font-family: Inconsolata_Condensed-Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333333;
+}
+@font-face {
+        font-family: Inconsolata_Condensed-Bold;
+        src: url(404-not-found-master/Inconsolata_Condensed-Bold.ttf) format('truetype')
+}
+.scarecrow {
+    position: absolute;
+    left: 77px;
+    top: 265px;
+    right: 823.78px;
+    bottom: 367.57px;
+    width: 539.22px;
+    height: 447.43px;
+}
+.info {
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+}
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+.info2 {
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+}
+h3 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    columns: #4f4f4f;
+}
+h5 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.btn {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+    background: #333333;
+    border: 0px solid #333333;
+}
+.fter {
+    position: absolute;
+    width: 226px;
+    height: 17px;
+    left: 607px;
+    top: 1024px;
+    font-family: 'Monotserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+    text-align: center;
+}
